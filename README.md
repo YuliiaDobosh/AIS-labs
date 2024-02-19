@@ -1,7 +1,7 @@
-# Administration of Information Systems Labs
+Administration of Information Systems Labs
 
 This repository contains labs related to the AIS course.
 
-## Author
+# Author
 - Yuliia Dobosh
 - Group IT-31, LPNU 
